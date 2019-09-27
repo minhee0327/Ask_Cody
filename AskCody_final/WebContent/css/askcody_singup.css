@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css?family=Oxygen&display=swap');
+
+table {
+	margin: 0 auto;
+}
+
+h3 {
+	text-align: center;
+	font-size: 2em;
+	color: rgb(070, 093, 114);
+}
+
+h4 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+input {
+	margin: 0 auto;
+	text-align: center;
+}
+
+td {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#s input {
+	width: 50%;
+	height: 20px;
+	padding: 0;
+	margin: 0auto;
+}
+
+table {
+	color: gray;
+}
+
+label {
+	color: black;
+}
+
+td {
+	color: black;
+}
+
+#s {
+	width: 49%;
+	height: 20px;
+	padding: 0;
+}
+
+#u {
+	width: 49%;
+	height: 20px;
+	padding: 0;
+}
+#pw_check input {
+	width: 30px;
+	height: 50.17;
+}

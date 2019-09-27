@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+#post{
+	position :relative;
+	margin: auto;
+	margin-top:10px;
+	width: 800px;
+	height: 800px;
+	border: 2px solid silver;
+}
+.bordertd{
+	width:0;
+	opacity: 0.3;
+	font-size:20px;
+}
+td {
+	width:700px; 
+	overflow: hidden;
+}
+
+#title {
+	position:relative;
+	left: 5%;
+	width:300px;
+	font-size: 20px;
+}
+#golist{
+	position:relative;
+	left: 45%;
+}
+#modify{
+	position:relative;
+	left: 50%;
+}
+#delete{
+	position:relative;
+	left: 55%;
+}
+
+p {
+	margin-left:20px;
+	font-size:18px;
+}
+
+span {
+	font-weight: bolder;
+}
+
+table a{
+	text-decoration: none;
+	color: black;
+}
+table a:hover{
+	color: red;
+}
