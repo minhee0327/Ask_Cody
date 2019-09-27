@@ -56,7 +56,7 @@ public class insertusersServlet extends HttpServlet {
 			
 			try {
 				service.insertuser(vo);
-				response.sendRedirect("index.jsp"); 
+				response.sendRedirect("login.jsp"); 
 				} catch (Exception e) {
 				
 				request.setAttribute("exception", e);
