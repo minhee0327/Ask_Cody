@@ -30,7 +30,7 @@
 
 > view Diagram
 
-<img src="./db최종본수정안.png"></img>
+<img src="./README_img/8.png"></img>
 
 ## Environment [tech, version, tool, etc]
 ### OS
