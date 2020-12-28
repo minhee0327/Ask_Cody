@@ -77,9 +77,16 @@
     - [reference](https://all-record.tistory.com/49)
 - After installation is complete, you can use the project.
 
-## Contribte
+## Contribute
 > 팀원
 - [danniel0458](https://github.com/daniel0458) : 조장, 게시판 CURD, 프로젝트 통합관리
 - [jakeshin89](https://github.com/jakeshin89): 옷 찾기(finder)
 - [jiji0107](https://github.com/jiji0107): 로그인/회원가입
 - [minhee0327](https://github.com/minhee0327/): 코디북(coordibook)
+
+> 프로젝트 기간
+- 2019.09.16 - 2019. 09.27
+
+> history참조
+- [링크(완성본 아님)](https://github.com/daniel0458/team2project)
+- 
