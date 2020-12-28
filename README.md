@@ -2,13 +2,11 @@
 > :question: What to wear today?:question: :exclamation:
 
 ## Motivation
----
 >  When you are wondering what to wear, you can find it by setting the color and category you want.   
 > You can also make it into a codibook and save it.
 
 
 ## ScreenShot
----
 > 메인화면 (main)
 
 <img src="./README_img/1.png"></img>
@@ -32,7 +30,6 @@
 
 
 ## Environment [tech, version, tool, etc]
----
 ### OS
 - windows10
 
@@ -57,7 +54,6 @@
 - eclipse
 
 ## Installation
----
 - clone this project
 - Please install oracle `xe11g`
     - Create account (`ID: bit, PW: bit`)
@@ -79,7 +75,6 @@
 - After installation is complete, you can use the project.
 
 ## Contribte
----
 > 팀원
 - [danniel0458](https://github.com/daniel0458) : 조장, 게시판 CURD, 프로젝트 통합관리
 - [jakeshin89](https://github.com/jakeshin89): 옷 찾기(finder)
