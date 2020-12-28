@@ -30,7 +30,7 @@
 
 > view Diagram
 
-<img src="./README_img/8.png"></img>
+<img src="./README_img/8.PNG"></img>
 
 ## Environment [tech, version, tool, etc]
 ### OS
