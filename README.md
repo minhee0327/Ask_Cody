@@ -69,7 +69,7 @@
         ```cmd
         lsnrctl start
         ```
-- download [dbinfo.txt file]() and put in the corresponding path (`C:\lib\dbinfo.txt`)
+- download [dbinfo.txt file](https://github.com/minhee0327/Ask_Cody/blob/master/dbinfo.txt) and put in the corresponding path (`C:\lib\dbinfo.txt`)
 - Tomcat server linkage (eclipse)
     - [Windows] - [Preferences]
     - [Server] - [Runtime Environments] - [add]
