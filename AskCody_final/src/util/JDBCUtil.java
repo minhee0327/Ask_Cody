@@ -14,8 +14,6 @@ public class JDBCUtil {
 	public static Connection getConnection () {
 		Connection con = null;
 		
-		
-		
 		try {
 			Properties p = new Properties();
 			p.load(new FileInputStream("c://lib//dbinfo.txt"));
