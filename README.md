@@ -28,6 +28,9 @@
 
 <img src="./README_img/6.png"></img>
 
+> view Diagram
+
+<img src="./db최종본수정안.png"></img>
 
 ## Environment [tech, version, tool, etc]
 ### OS
