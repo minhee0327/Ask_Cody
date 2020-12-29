@@ -11,7 +11,7 @@
 
 <img src="./README_img/1.png"></img>
 
-> 코디 찾기(fineder)
+> 코디 찾기(finder)
 
 <img src="./README_img/2.png"></img>
 
